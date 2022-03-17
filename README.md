@@ -29,4 +29,4 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 ![Snake animation](https://github.com/AydomSantos/AydomSantos/blob/output/github-contribution-grid-snake.svg)
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AydomSantos&repo=AydomSantos&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AydomSantos&repo=AydomSantos&theme=react)](https://github.com/AydomSantos)
