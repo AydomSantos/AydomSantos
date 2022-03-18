@@ -25,8 +25,8 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=AydomSantos&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydom669&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AydomSantos&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
 
-![Snake animation](https://github.com/aydom669/aydom669/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AydomSantos/AydomSantos/blob/output/github-contribution-grid-snake.svg)
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=aydom669&repo=aydom669&theme=react)](https://github.com/aydom669)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AydomSantos&repo=AydomSantos&theme=react)](https://github.com/AydomSantos)
