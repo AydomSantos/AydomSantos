@@ -23,6 +23,6 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 ## What I don't know, give me a few days 😁
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=AydomSantos&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=aydom669&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
 
 
