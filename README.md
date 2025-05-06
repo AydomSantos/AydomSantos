@@ -87,16 +87,6 @@
 
 </div>
 
-<br/>
 
-## 🚀 Current Focus
 
-<div align="center">
 
-```mermaid
-pie
-    title Technologies I'm Mastering
-    "Advanced React" : 35
-    "TypeScript" : 30
-    "Testing (Jest/RTL)" : 20
-    "State Management" : 15
